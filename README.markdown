@@ -5,8 +5,6 @@ JASidePanels is a UIViewController container designed for presenting a center pa
 
 Demo
 ---
-![iPhone Example](https://img.skitch.com/20120322-dx6k69577ra37wwgqgmsgksqpx.jpg)
-![iPad Example](https://img.skitch.com/20120322-ttu951nfb8cpd5ti5r1ni8428y.jpg)
 
 Example 1: Code
 ---
